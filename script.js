@@ -42,7 +42,8 @@ else{
 console.log("isPassed",isPassed);
 console.log("isPassed",!isPassed);
 */
-/*let sureshAge,hareeshAge, nareshAge;
+/*
+let sureshAge,hareeshAge, nareshAge;
 let currentTotalAge=0;
 sureshAge=+prompt("suresh,what is your age");
 thankYouMessage("suresh",sureshAge);
@@ -71,6 +72,7 @@ function thankYouMessage(name,age){
   else{
    console.log("error")
   }
-}*/
+} 
+  */
 
 
